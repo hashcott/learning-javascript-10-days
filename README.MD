@@ -1,3 +1,5 @@
-## Mục đích repo này để dạy người yêu học :3
+# Learning javascript in 10 days
 
-`` I love you ,baby ``
+| Day      | Contents |   Link   |
+| :---        |    :----:   |          ---: |
+| Day 1      | Javascript là gì ?  | Here's this   |
